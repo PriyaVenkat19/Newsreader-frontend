@@ -9,7 +9,7 @@ function App() {
   return (
     <Router>
             <div className="container">
-              <h1>News Reader App</h1>
+              <h1>Daily News</h1>
               
             <nav className="nav-menu">
                 <Link to="/" >Home</Link>
